@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mkedean310.bigbookdaily",
+      "sha256_cert_fingerprints": [
+        "52:4C:3D:BA:FB:B1:74:52:7B:DD:F4:F7:CB:7B:78:4C:45:0E:64:02:94:DA:C9:30:27:C5:38:88:02:C3:53:2F"
+      ]
+    }
+  }
+]
